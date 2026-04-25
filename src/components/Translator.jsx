@@ -18,7 +18,7 @@ const Translator = () => {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "X-RapidAPI-Key": "5edf83d470msh9ca2a1b847ded94p1d82dejsn14241df4b89c",
+            "X-RapidAPI-Key": "YOUR_API_KEY",
             "X-RapidAPI-Host": "google-translator9.p.rapidapi.com",
           },
           body: JSON.stringify({
